@@ -1,10 +1,11 @@
-##  <h1>🎯Face Recognition Attendance System</h1>
+##  <h2>🎯Face Recognition Attendance System</h2>
 
-## <h2> 📦 Project Overview</h2>
+## <h3> 📦 Project Overview</h3>
 
-A smart and efficient attendance system utilizing facial recognition for automatic attendance marking. This project uses real-time video feeds, detects and recognizes faces, and logs attendance data into an SQLite database.
+<p> A smart and efficient attendance system utilizing facial recognition for automatic attendance marking. This project uses real-time video feeds, detects and recognizes faces, and logs attendance data into an SQLite database.</p>
+
+
 ---
-
 ## 🛠️  Features
 
 - Face Detection: Real-time face detection with OpenCV.
@@ -57,6 +58,8 @@ A smart and efficient attendance system utilizing facial recognition for automat
 
     ```
 
+
+---
 🤝 Contributing
 
 Feel free to open a pull request or report any issues. Contributions are welcome!
